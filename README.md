@@ -117,15 +117,15 @@ The philosophy behind this is simple: it is preferable to fail cleanly than to p
 <!-- STATS-SECTION:START -->
 🎏 Quick overview of my profile
 ```text
-👥 - Followers: 14
+👥 - Followers: 12
 👤 - Following: 10
 📂 - Public repositories: 15
-🔒 - Private repositories: 21
-⭐ - Total stars: 27
+🔒 - Private repositories: 22
+⭐ - Total stars: 28
 🔃 - Pull requests: 388
 🏮 - Issues: 34
-🐲 - Repositories contributed to: 36
-🍃 - Commits made: 1503
+🐲 - Repositories contributed to: 37
+🍃 - Commits made: 1519
 📝 - Gists: 2
 ```
 
@@ -133,10 +133,10 @@ The philosophy behind this is simple: it is preferable to fail cleanly than to p
 ```text
 🏆 - Longest commit streak: 18 days
 💖 - Most liked repo: XashInjector with 9 stars
-📅 - 4 years and 6 months on GitHub
+📅 - 4 years and 7 months on GitHub
 🌴 - Weekend commits ratio: 29%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
-📊 - Average commits per repo: 42
+📊 - Average commits per repo: 41
 ```
 
 📊 Top languages
@@ -145,7 +145,7 @@ Assembly  : #........................ 5%
 C         : ########................. 33%
 C++       : ########................. 34%
 Haskell   : ###...................... 13%
-MDX       : #........................ 3%
+PHP       : #........................ 3%
 TypeScript: ###...................... 13%
 ```
 🌉 Working hours stats
@@ -153,13 +153,13 @@ TypeScript: ###...................... 13%
 Morning   : #####.................... 19%
 Afternoon : #########................ 35%
 Evening   : #######.................. 28%
-Night     : #####.................... 18%
+Night     : ####..................... 18%
 ```
 📅 Working days stats
 ```text
 Sunday    : ####..................... 17%
 Monday    : ###...................... 12%
-Tuesday   : ####..................... 18%
+Tuesday   : #####.................... 18%
 Wednesday : ####..................... 15%
 Thursday  : ###...................... 13%
 Friday    : ###...................... 13%
