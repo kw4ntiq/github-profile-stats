@@ -120,12 +120,12 @@ The philosophy behind this is simple: it is preferable to fail cleanly than to p
 👥 - Followers: 12
 👤 - Following: 10
 📂 - Public repositories: 15
-🔒 - Private repositories: 22
-⭐ - Total stars: 28
+🔒 - Private repositories: 23
+⭐ - Total stars: 29
 🔃 - Pull requests: 388
 🏮 - Issues: 34
-🐲 - Repositories contributed to: 37
-🍃 - Commits made: 1519
+🐲 - Repositories contributed to: 38
+🍃 - Commits made: 1530
 📝 - Gists: 2
 ```
 
@@ -133,20 +133,20 @@ The philosophy behind this is simple: it is preferable to fail cleanly than to p
 ```text
 🏆 - Longest commit streak: 18 days
 💖 - Most liked repo: XashInjector with 9 stars
-📅 - 4 years and 7 months on GitHub
+📅 - 4 years and 8 months on GitHub
 🌴 - Weekend commits ratio: 29%
 🌪️ - Commit storm day: 5/30/2023 with 35 commits
-📊 - Average commits per repo: 41
+📊 - Average commits per repo: 40
 ```
 
 📊 Top languages
 ```text
-Assembly  : #........................ 5%
-C         : ########................. 33%
-C++       : ########................. 34%
-Haskell   : ###...................... 13%
+Assembly  : #........................ 4%
+C         : #########................ 35%
+C++       : ########................. 33%
+Haskell   : ###...................... 12%
 PHP       : #........................ 3%
-TypeScript: ###...................... 13%
+TypeScript: ###...................... 12%
 ```
 🌉 Working hours stats
 ```text
